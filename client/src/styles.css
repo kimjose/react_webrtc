@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.3)), url('https://thumbs.dreamstime.com/z/water-drop-ripple-bluish-bluish-water-drop-adn-ripple-taken-nikon-d-e-series-mm-lens-175770856.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(202, 88, 11);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
