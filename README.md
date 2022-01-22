@@ -16,6 +16,6 @@
    ## Useful Links
    
 - Heroku server deployment [React RTC Video](https://react-rtc-video.herokuapp.com/)
-- Netlify Test Link ... Coming soon
+- Netlify Test Link. [Netlify Link for client](https://61ec4548c8634e42e6ce147e--nifty-franklin-062662.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ebfa7534-6e1f-4081-bb69-6767d4d88dcb/deploy-status)](https://app.netlify.com/sites/nifty-franklin-062662/deploys)
