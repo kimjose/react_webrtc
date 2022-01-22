@@ -17,3 +17,5 @@
    
 - Heroku server deployment [React RTC Video](https://react-rtc-video.herokuapp.com/)
 - Netlify Test Link ... Coming soon
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ebfa7534-6e1f-4081-bb69-6767d4d88dcb/deploy-status)](https://app.netlify.com/sites/nifty-franklin-062662/deploys)
